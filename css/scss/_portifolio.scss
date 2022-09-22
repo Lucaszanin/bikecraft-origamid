@@ -72,14 +72,13 @@
 	display: inline-block;
 	width: 12px;
 	height: 12px;
-	background: #1d1d1d;
-	color: #1d1d1d;
+	background: $black-100;
+	color: $black-100;
 	border-radius: 20px;
 	overflow: hidden;
 	text-indent: -200px;
 }
 
 .rslides_tabs li a:hover, .rslides_tabs li.rslides_here a {
-	background: #fec63e;
-	color: #fec63e;
+	background:#fec63e;
 }

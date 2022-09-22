@@ -52,14 +52,14 @@
 }
 
 .orcamento_dados {
-	color: #fff;
+	color: $white-100;
 }
 
 .contato_dados h3{
 	font-size: 18px;
 	line-height: 25px;
 	text-transform: uppercase;
-	color: #fec63e;
+	color:#fec63e;
 	font-weight: bold;
 }
 
@@ -84,13 +84,13 @@
 }
 
 .contato_dados ul li a {
-	border: 3px solid #fec63e;
+	border: 3px solid#fec63e;
 	display: block;
 	padding: 10px;
 }
 
 .contato_dados ul li a:hover {
-	border-color: #000;
+	border-color: $black-200;
 }
 
 .contato_mapa {
